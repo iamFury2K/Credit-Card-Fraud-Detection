@@ -8,7 +8,6 @@ This repository contains a Python implementation of anomaly detection using the 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files](#files)
-- [License](#license)
 
 ## Introduction
 
@@ -24,14 +23,11 @@ Anomaly detection is the process of identifying data points that deviate signifi
 Navigate to the project directory:
 ```sh
 cd anomaly-detection-isolation-forest
-Install the required Python packages (it's recommended to use a virtual environment):
-
-pip install -r requirements.txt
-Usage
-Open the Jupyter Notebook provided in the repository:
 ```
+
+Install the required Python packages (it's recommended to use a virtual environment):
 ```sh
-jupyter notebook Anomaly_Detection_with_Isolation_Forest.ipynb
+pip install -r requirements.txt
 ```
 Follow the instructions in the notebook to run the code cells and see how the Isolation Forest algorithm performs anomaly detection on synthetic data.
 
@@ -39,7 +35,5 @@ Files
 Anomaly_Detection_with_Isolation_Forest.ipynb: Jupyter Notebook containing the main code for the project, including data generation, model training, evaluation, and visualization.
 README.md: This file, providing an overview of the project.
 requirements.txt: List of required Python packages for this project.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Note: Replace your-username in the clone URL with your GitHub username if you plan to fork this repository.
