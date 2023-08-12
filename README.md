@@ -17,9 +17,9 @@ Anomaly detection is the process of identifying data points that deviate signifi
 
 1. Clone this repository to your local machine:
 
-   ```sh
-   git clone https://github.com/your-username/anomaly-detection-isolation-forest.git
-
+```sh
+git clone https://github.com/your-username/anomaly-detection-isolation-forest.git
+```
 Navigate to the project directory:
 ```sh
 cd anomaly-detection-isolation-forest
