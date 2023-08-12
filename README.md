@@ -37,3 +37,7 @@ README.md: This file, providing an overview of the project.
 requirements.txt: List of required Python packages for this project.
 
 Note: Replace your-username in the clone URL with your GitHub username if you plan to fork this repository.
+![Anomaly detection](https://github.com/iamFury2K/Credit-Card-Fraud-Detection/assets/73428754/818271d2-fec7-4dea-a38c-28c28e9d40d6)
+![AUC-ROC score](https://github.com/iamFury2K/Credit-Card-Fraud-Detection/assets/73428754/3ef50a14-6165-4e4b-9316-423838303466)
+![graph](https://github.com/iamFury2K/Credit-Card-Fraud-Detection/assets/73428754/1d97a983-04c7-4896-88ff-d792de2201b9)
+
